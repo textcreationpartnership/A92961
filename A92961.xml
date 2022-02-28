@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven arguments plainly proving that papists are trayterous subjects to all true christian princes. With a touch of Iesuites treacheries.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92961</idno>
+            <idno type="STC">Wing S2735</idno>
+            <idno type="STC">Thomason E156_1</idno>
+            <idno type="STC">ESTC R19995</idno>
+            <idno type="EEBO-CITATION">99860800</idno>
+            <idno type="PROQUEST">99860800</idno>
+            <idno type="VID">112925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112925)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven arguments plainly proving that papists are trayterous subjects to all true christian princes. With a touch of Iesuites treacheries.</title>
+               </titleStmt>
+               <extent>15, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With title page woodcut.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112925:1" rendition="simple:additions"/>
+            <p>SEVEN ARGVMENTS <hi>PLAINLY PROVING</hi> THAT PAPISTS Are Trayterous Subjects to all true CHRISTIAN PRINCES.</p>
+            <p>
+               <hi>With a Touch of</hi> Ieſuites <hi>Treacheries.</hi>
+            </p>
+            <figure>
+               <sp>
+                  <p>Eſtote proditores</p>
+                  <p>Betraye your Country</p>
+               </sp>
+               <figDesc>the pope, riding a seven-headed lion-like beast, encourages clerics and laymen to rebel.</figDesc>
+            </figure>
+            <p>Printed in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:112925:2"/>
+            <pb n="3" facs="tcp:112925:2"/>
+            <head>SEVEN ARGVMENTS PLAINLY PROVING That <hi>Papiſts</hi> are trayterous Subjects to all true Chriſtian PRINCES.</head>
+            <div n="1" type="reason">
+               <head>The firſt Reaſon.</head>
+               <p>ALL good Subjects which obey for conſci<g ref="char:EOLhyphen"/>ence, as every one ought to doe, muſt have their conſciences enformed by the word of God.</p>
+               <p>But perfect Papiſts hate our Aſſemblies, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſpiſe the preaching of the Word, which ſhould direct <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir conſciences both in dutie towards God, and loyal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie towards their Prince; and in ſtead thereof, entertaine a ſtrange worſhip.</p>
+               <p>
+                  <note place="margin">Perfect Papiſts the worſt knot of theeves, and why.</note>Therefore perfect Papiſts cannot be ſound hearted Subjects. I have heard wiſe men ſay, that there is no knot of theeves ſo dangerous, as when there is a whore in the company. There is none ſo arrand a whore in the
+<pb n="4" facs="tcp:112925:3"/>world, as the ſtrumpet of Babylon, who is an actuall dealer in wicked and ungodly practices againſt all Kings and Kingdomes. Then whether hearts hating GODS truth, which ſhould rightly enforme them, and carou<g ref="char:EOLhyphen"/>ſing of this whoriſh cup, which doth ſtrangely enchaunt them, be faithfull to his princely perſon, or peace of this Realme, I commend it to the judgement of all them that love our proſperitie.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>The ſecond Reaſon.</head>
+               <p>
+                  <note place="margin">Papiſts obedi<g ref="char:EOLhyphen"/>ence but at the Popes plea<g ref="char:EOLhyphen"/>ſure.</note>THey that carry a countenance conformable to his Majeſties Lawes no longer then it ſtands with the Popes pleaſure, can be no true hearted Subjects.</p>
+               <p>But perfect Papiſts obey his Majeſties Lawes no lon<g ref="char:EOLhyphen"/>ger then it ſtands with the liking of the Pope, as the Je<g ref="char:EOLhyphen"/>ſuit <hi>Hart</hi> ſometimes confeſſed.</p>
+               <p>Therefore perfect Papiſts can be no good ſubjects.</p>
+               <p>
+                  <note place="margin">Greater cauſe to feare than to truſt them.</note>Here let the true Subjects underſtand, that the Pope hath powred an opinion into his Papiſts, that Kings and Princes, if he diſpence with them, may breake their faith and promiſe: that <hi>nulla fides eſt ſervanda cum haereticis,</hi> no faith is to be kept with Gods friends and his foes; that Papiſts with liberall permiſſion may ſweare &amp; unſweare, if advantageable opportunitie doe occurre: which ſince that they doe beleeve to ſtand in his power to diſpence withall, and that he is both able to pardon them, and wil<g ref="char:EOLhyphen"/>ling to reward them; yea that it is within his reach not onely to give them the Kingdome of <hi>England,</hi> but the Kingdome of heaven alſo: then let them ſweare, their proteſtations are not worth the paring of a rotten apple, their obedience is but at the Popes <hi>ad placitum:</hi> Where<g ref="char:EOLhyphen"/>upon ariſeth a good caveat, that we rather tie ſhort than truſt a two-legged Fox.</p>
+            </div>
+            <div n="3" type="reason">
+               <pb n="5" facs="tcp:112925:3"/>
+               <head>The third Reaſon.</head>
+               <p>
+                  <note place="margin">Papiſts reade and recom<g ref="char:EOLhyphen"/>mend popiſh libels.</note>THey that receive, entertaine, reade and recommend ſuch lying libels and heart-ſtealing pamphlets, as whereby his Majeſties right is impeached, his regiment reviled, his title of ſupremacy defaced, his faith defamed, Chriſtian Religion nouriſhed by him, called hereticall, deviliſh, and damnable, and the profeſſours thereof worſe then nullifidians and infidelious Atheiſts, can be no good ſubjects.</p>
+               <p>But this is the dealing of our perfect Papiſts.</p>
+               <p>Therefore the concluſion followeth, that ſuch can be no good ſubjects.</p>
+               <p>Many wicked and trayterous pamphlets have beene ſcattered in this realme to darken the glory of the Lords annoynted, to weaken the good wills of his highneſſe lo<g ref="char:EOLhyphen"/>ving ſubjects, to winne worthleſſe male-contented mali<g ref="char:EOLhyphen"/>cious wretches treacherouſly to conſpire with our ſworn enemies, whereby to fortifie the Romiſh faction. Theſe have and doe want no favourers to ſcatter them in cor<g ref="char:EOLhyphen"/>ners, to ſend them to their lovers, to commend their ſub<g ref="char:EOLhyphen"/>ſtantialneſſe as matters unanſwerable, both ſuch Mer<g ref="char:EOLhyphen"/>chants as ſend them, and ſuch brokers as utter ſuch Ba<g ref="char:EOLhyphen"/>byloniſh wares, are right worthy to pay their heart bloud for cuſtome.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>The fourth Reaſon.</head>
+               <p>
+                  <note place="margin">Papiſts receive pardons to free them from loyaltie.</note>THey that receive pardons, abſolutions, and ſuch like ſtuffe, to exempt, and free themſelves from loyall o<g ref="char:EOLhyphen"/>bedience, are but ſubjects in ſhew, watching their times to worke their owne willes.</p>
+               <p>But our abſolute Romane Catholikes receive pardons and abſolutions, to acquite them from dutifull allegi<g ref="char:EOLhyphen"/>ance.</p>
+               <pb n="6" facs="tcp:112925:4"/>
+               <p>Therefore ſhake a perfect Papiſt out of the masking weede of his pretended conformitie, and then ſhall you finde that an heart devoutly affected to the Romiſh Re<g ref="char:EOLhyphen"/>ligion, is as deeply infected with the venome of trea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>
+                  <note place="margin">Gregorie <hi>13.</hi> Pius <hi>5.</hi> Sixtus <hi>5.</hi>
+                  </note>The dealings of the Popes is not unknowne, of <hi>Grego<g ref="char:EOLhyphen"/>rie</hi> the 13. <hi>Pius</hi> 5. and <hi>Sixtus</hi> 5. who labouring our ſub<g ref="char:EOLhyphen"/>verſion by <hi>Englands</hi> unnaturall children, have ſent their pardons and abſolutions to free them from ſubjection; a thing abhorring from all Religion, hated of the Hea<g ref="char:EOLhyphen"/>then, the age preſent loathes it, and ſucceeding poſteritie ſhall be aſtoniſhed to heare of ſuch cruelties.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>The fift Reaſon.</head>
+               <p>
+                  <note place="margin">The Pope ere<g ref="char:EOLhyphen"/>cteth ſemina<g ref="char:EOLhyphen"/>ries for the hatching of Fox-Prieſts, and Catholikes receive them to nurſing.</note>THey, for whoſe catholike good the Pope pretends the erecting of his ſeminaries, and therefore receive from thence ſuch ſubtill treacherous and diſloyall wretches, as infect them with poyſon, and perſwade them to trea<g ref="char:EOLhyphen"/>ſon, cannot be faithfull and true hearted ſubjects.</p>
+               <p>But the Pope maketh his Catholikes beleeve that he erecteth ſeminaries for their good, and they alſo receive and entertaine his Jeſuits and Fox-Prieſts, iſſuing out of thoſe dennes of Idolatrie.</p>
+               <p>Therefore the concluſion followeth, that ſuch can be no good ſubjects.</p>
+               <p>
+                  <note place="margin">Parſons. Campion.</note>
+                  <hi>Parſons, Campion,</hi> and <hi>Hart,</hi> with the reſt, caſt in the Popes mould and fitted for the ſervice of the beaſt that ſits upon the ſeven hilles, have wanted no entertainment in this Land in their times, although there were nothing more intended of them then this, namely, to ſet the ſub<g ref="char:EOLhyphen"/>jects againſt their Prince, and <hi>Engliſhmen</hi> againſt their owne Countrey, as leave was given to <hi>Parſons</hi> and <hi>Cam<g ref="char:EOLhyphen"/>pion</hi> by <hi>Gregorie</hi> 13. to interpret the Bull of <hi>Pius Quintus.</hi>
+               </p>
+            </div>
+            <div n="6" type="reason">
+               <pb n="7" facs="tcp:112925:4"/>
+               <head>The ſixt Reaſon.</head>
+               <p>
+                  <note place="margin">Papiſts gape for a golden day.</note>THey that are weary of theſe dayes, and live in hope of another world, which in their ordinary by-word they call their golden day or yeare of Jubilee, can be no faithfull ſubjects to him, by whoſe gracious government theſe dayes are continued.</p>
+               <p>But the Papiſts are weary of theſe dayes, and languiſh in looking for their golden day, which Almightie God ſend them in leaden haſte.</p>
+               <p>Therefore Papiſts can be no good ſubjects.</p>
+               <p>
+                  <note place="margin">Beleeve them without fur<g ref="char:EOLhyphen"/>ther proofe.</note>That the Papiſts are weary of theſe dayes and times, wiſh the death of his Majeſtie, and alteration of State and Government; there needs no further proofe then their conſpiracies, their treaſons and ſecret attempts, their platformes and practices for forraine invaſion: whereby it is evient, that theſe are the dayes of their griefe and ſorrow; and that they regard the ſafetie nei<g ref="char:EOLhyphen"/>ther of Prince nor Countrey, ſo they may returne to the fleſh pots of Egypt, and eate their fill with peaceable freedome.</p>
+            </div>
+            <div n="7" type="reason">
+               <head>The ſeventh Reaſon.</head>
+               <p>
+                  <note place="margin">Papiſts regard no ſtate, ſo that Popery may prevaile.</note>THey that regard not into what ſubjection, ſlavery, ſhame and diſhonour his highneſſe, his Kingdome and ſubjects be brought unto, ſo that their blind wor<g ref="char:EOLhyphen"/>ſhip and pageant of Papiſtry may be erected, can be no good ſubjects.</p>
+               <p>But perfect Papiſts neither regard Majeſtie of the Prince, nor dignitie of the Nobles, nor gravitie of age, nor difference of ſexe, nor excellency of learning: ſo that Popery may be ſet up in ſtead of the Goſpell.</p>
+               <p>Therefore ſuch can be no good ſubjects.</p>
+               <p>
+                  <note place="margin">Wofull expe<g ref="char:EOLhyphen"/>rience.</note>The deſperate dealings and damnable practiſes of Pa<g ref="char:EOLhyphen"/>piſts heretofore prove plainly, that allegiance to their
+<pb n="8" facs="tcp:112925:5"/>Prince cannot keepe them from treaſon; the dutie of love to their naturall Countrey, cannot withdraw them from favouring rebellion at home, nor lincking with ſtrangers abroad; that the dutie of obedience of children to parents, or of parents affection to children, cannot keepe them from unnaturall crueltie; that the dutie of mutuall love, and ſocietie betwixt the husband and wife cannot remove them from monſtrous immanitie; that the dutie of kinde and naturall pittie cannot ſtay a Pa<g ref="char:EOLhyphen"/>piſts hands from murdering feeble ſexe, tender babes, or reverent age: laſtly, that the dutie of familiaritie in youth, of friendſhip in graver yeares, of continuall ſo<g ref="char:EOLhyphen"/>cietie during all the life paſſed, cannot ſtay a Papiſts hands from ſacrificing his deareſt friends. Nay, which is more, not onely are they contented to yeeld their bracelets and carerings to the framing of the golden calfe, as did <hi>Iſraell,</hi> nor to offer their friends in ſacrifice, as did that unnaturall King of <hi>Moab</hi> in offering his ſons to aſſwage the ire of his angry Gods; but to make their owne lives a prey to their enemies; as did the <hi>Atheni<g ref="char:EOLhyphen"/>ans,</hi> when they accorded by caſting of lots to give them<g ref="char:EOLhyphen"/>ſelves to be devoured of that gaſtly monſter <hi>Mino<g ref="char:EOLhyphen"/>taurus.</hi>
+               </p>
+               <p>Wherefore ſince it is ſo cleare a caſe, that the conſci<g ref="char:EOLhyphen"/>ences of theſe Catholikes are altogether Romiſh; that they hold the Popes Excommunication againſt our dread Soveraigne the Kings Majeſtie to be lawfull; that they yeeld their obedience no longer then <hi>durante bene<g ref="char:EOLhyphen"/>placito</hi> of the Pope; that they receive and commend ſuch libels as deface our Church, abuſe his Highneſſe perſon, and all his loving ſubjects; that they receive pardons to exempt themſelves from dutifull obedience; that they receive and entertaine the enemies of this Realme, Je<g ref="char:EOLhyphen"/>ſuits and ſeminarie Prieſts; that they looke for a golden day, and long for an alteration; that they care not to conſpire at home with traytours, and to plot abroad with ſtrangers, whereby to convey the crowne to a for<g ref="char:EOLhyphen"/>rainer:
+<pb n="9" facs="tcp:112925:5"/>ſubence, I ſay, this is ſo, then two concluſions doe follow.</p>
+               <p>Firſt, that every perfect Papiſt is a ſecret traytour to his Prince and Countrey. Our land cannot be at eaſe, ſo long as theſe lye on her ſtomacke. They pricke and wound her ſides, not with praying againſt her (for their imprecations wee hope, are <hi>irrita vota</hi>) but with prey<g ref="char:EOLhyphen"/>ing upon her: and when all ſtratagems faile, ready to fetch arguments from the ſhambles, and conclude in <hi>ferio.</hi>
+               </p>
+               <p>Whoſe <hi>Religion</hi> is politicke, learning bloudy, affecti<g ref="char:EOLhyphen"/>ons malicious, ambitious, divelliſh. The <hi>Inquiſition</hi> is their <hi>Grammar,</hi> fire and fagot their <hi>Rhetoricke,</hi> fleet and fetters their <hi>Logicke,</hi> the Cannons roare their <hi>Muſicke.</hi> and poyſoning is their <hi>Phyſicke.</hi>
+               </p>
+               <p>Whoſe <hi>Prieſts</hi> have ſuch almightie power, that they can make their Maker, that whereas in their <hi>Sacrament</hi> of <hi>Order,</hi> (as they tearme it) GOD makes an impo<g ref="char:EOLhyphen"/>tent creature a <hi>Prieſt:</hi> now in their <hi>Sacrament</hi> of the <hi>Altar,</hi> the <hi>Prieſt</hi> ſhall make Almightie God. Yea, as he made them with a word, and put them in their mo<g ref="char:EOLhyphen"/>thers wombe: ſo they can make him with a word, and put him in a box. They that thus blaſpheme their Creator, ſhall wee truſt them with their fellow-crea<g ref="char:EOLhyphen"/>ture?</p>
+               <p>It was an ingenuous anſwer of a <hi>Spaniſh</hi> Noble man, commanded by <hi>Charles</hi> the fiſt 10 lodge the Duke of <hi>Bourbon</hi> at his houſe in <hi>Madrid;</hi> I will obey thee, but ſet my houſe on fire ſo ſoone as the Duke is our of it. My Predeceſſors never built it to harbour Tray<g ref="char:EOLhyphen"/>tors.</p>
+               <p>Did he thinke that a conſpirator would poyſon his houſe; and ſhall we thinke that ſuch are no infection to our Land? <hi>David</hi> did counterfeit himſelfe <hi>madde.</hi> when he was not, for his owne ſecuritie: theſe are <hi>madde,</hi> and diſſemble it; till by one <hi>franticke</hi> act, they can bring us all to ruine. If they were forraine, publike and profeſt
+<pb n="10" facs="tcp:112925:6"/>enemies; we would not blame, not feare them) While Kingdomes ſtand in hoſtilitie, hoſtile actions are juſt. But theſe are domeſticall, inteſtine, ſecret adverſaries, bred and fed in the ſame Countrey; therefore the more intolerable, as the more pernicious.</p>
+               <p>Tut, they can ſatisfie their conſciences by diſtinguiſh<g ref="char:EOLhyphen"/>ing of <hi>Treaſons,</hi> Indeed, all their <hi>Religion</hi> is a religion of diſtinctions: ſuch as that is, that an <hi>excommunicate</hi> Prince may be dethroned; and being once uncrowned, may on his penitent ſubmiſſio<g ref="char:cmbAbbrStroke">̄</g> be reſtored to the <hi>Church, Quoad animam, non quoad rognum.</hi>
+               </p>
+               <p>Thus they leave poſitive, textuall, ſchoole divinitie, and fall to Crowne-divinitie <hi>Antichriſt</hi> pleads, their <hi>Religion</hi> is maintain'd by the <hi>Fathers.</hi> Did ever any <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> allow of <hi>Treaſon?</hi> Shame they not to averre it? If any abuſed, wreſted, falſified writing of the <hi>Fathers</hi> did ſeeme to conſent to their errors: yet wee know, that <hi>Audiendi Patres, non ut Judices, ſed ut reſtes:</hi> The Fa<g ref="char:EOLhyphen"/>thers be heard as witneſſes, not as Judges. It is Gods <hi>Scriptum est,</hi> not their <hi>traditum eſt,</hi> that muſt give deci<g ref="char:EOLhyphen"/>ſion of all doubts.</p>
+               <p>And ſecondarily, that it is a ſafer way to truſſe than to truſt a two-legged Fox. Our gracions God that hath hitherto protected us, bleſſe his Majeſtie, and the nigh Court of Parliament, that through their wiſedomes, zeale and courage, Gods glory may be promoted, the undermining of theſe Foxes, which deſtroy our Vines, ſoundly ſifted, and ſecret traytours ſharply puniſhed. Then ſhall <hi>England</hi> leſſe feare her ruine (which GOD forbid) by ſtrangers force, when vengeance deſerved ſhall ſtrongly ſeaſe on houſhold foes; nay, els may <hi>Eng<g ref="char:EOLhyphen"/>land</hi> more ſuſpect the weakning of her preſent ſtate, by nouriſhing a Viper in her owne bowels, than Popiſh power, or any els, who gnaſh their teeth at her peace and well-fare.</p>
+               <p>Thus holding Popery to be an hotch-potch of new Religion coyned in the mints of the Babyloniſh whore,
+<pb n="11" facs="tcp:112925:6"/>who contendeth to advance, her Kingdome above the Kingdome of Chriſt, by all meanes that themſelves, or hell it ſelfe can invent, by crueltie, by blood, by deceit, by abuſing the word of God, by equivocation, by what not? yea <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ee hath ſo taught <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, the Prieſts and Jeſuites, and <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> by them ſeduced to ſweare and forſweare, to promiſe and proteſt, by whatſoever can be named, (although they have no purpoſe to make good any of their vowes in this kinde) as that they have almoſt left no meanes whereby a man may be aſſured of anothers intentions, although he vow it never ſo ſeem<g ref="char:EOLhyphen"/>ing ſetiouſly.</p>
+               <p>Call to minde the great and ſerious proteſtations that <hi>Warſon</hi> the Prieſt made in his Quodlibeticall queſtions, <hi>That albeit he differed in Religion from that which was pro<g ref="char:EOLhyphen"/>feſſed in the Church of England, yet if either Pope or Spaniard ſhould ſeeke by hoſtile meanes to invade his Countrey, he would willingly ſpend his ſubſtance, nay his deareſt blood againſt any ſuch as ſhould attempt it,</hi> and yet he himſelfe was the firſt afterwards as I remember, that came to the gallowes for violating it. If I could finde any thing that good is in ei<g ref="char:EOLhyphen"/>ther Prieſts of Jeſuits, I would commend them for it, but becauſe I cannot, holding them all to be traytors in heart unto his Maleſtie, and their favourers to be ſcarce<g ref="char:EOLhyphen"/>ly good ſubjects; I will end for their commendations with the words of a late, but wittie, Satyriſt, <hi>Fevet illis, quiſquis de illis tacet.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="tract">
+            <pb n="12" facs="tcp:112925:7"/>
+            <head>A TASTE OF THE BLASPHEMOVS Treacheries of wicked IESUITES.</head>
+            <p>SUch is the moſt bloody, and moſt blaſphemous impudency of theſe Romiſh Incendiaries, that when they put on a deviliſh and deſperate reſo<g ref="char:EOLhyphen"/>lution, to murther any Emperour, King, or Prince, whom they have once pronounced to be an Hereticke, and excommunicate perſon; and there<g ref="char:EOLhyphen"/>upon intend to murther him by ſome <hi>Raviliack,</hi> whom they make choice of for the execution of the ſaid Trea<g ref="char:EOLhyphen"/>ſon; that after ſuch an unfortunate and wretched perſon is once allured, and entred into their place of conſultati<g ref="char:EOLhyphen"/>on, or chamber of (Philonicall) prayers, (forſooth) as they call them: Theſe infernall firebrands kneele all downe, who in their prayers obſerve their time; and put before the intended traytor, a knife folded up in a ſcarfe; ſhut up in a little Box, covered with an <hi>Agnus Dei;</hi> writ<g ref="char:EOLhyphen"/>ten about with black letters of perfumes, odoriferous Characters: and when they draw it out themſelves, they
+<pb n="13" facs="tcp:112925:7"/>caſt or ſprinckle ſome drops of holy water upon it, which done, they hang at the hafte of the ſaid knife, five or ſix graines of Corrall, which are bleſſed by them, who blaſphemouſly give him to underſtand, and make him beleeve that ſo many blowes, as ſhall be given by him with the ſaid knife; ſo many ſoules ſhall be releaſed out of Purgatory.</p>
+            <p>Afterwards, putting the knife into the intended Mur<g ref="char:EOLhyphen"/>therers hand, they pronounce theſe words, ſaying;</p>
+            <p>Goe now like <hi>Jephte,</hi> with the Sword of <hi>Sampſon</hi> in thy hand, the Sword with which <hi>David</hi> did cut off <hi>Golia's</hi> head, the Sword of <hi>Gidion;</hi> yea, the Sword with which <hi>Judith</hi> did cut off <hi>Holophernes</hi> head; the ſword of the va<g ref="char:EOLhyphen"/>liant <hi>Machaboes,</hi> and the ſame with which Saint <hi>Peter</hi> did cut off <hi>Malcas</hi> his care, yea, I ſay, the ſword of Pope <hi>Julius</hi> the ſecond, with the which (breaking the forces of oppugning Princes) he tooke out of their hands with great effuſion of blood, the Cities of <hi>Sezza, Imola, Fay<g ref="char:EOLhyphen"/>ance, Bologna,</hi> and many other Cities: Goe thus, I ſay, thou magnanimous Champion of the chaire of Rome, and be valiant, and God ſtrengthen thine arme for the great worke now intended by thee. After which, this infernall kennell of Romiſh blood-hounds kneele all downe, and the moſt wretchedly renowned and curſed<g ref="char:EOLhyphen"/>ly quallified amongſt them, with a cauterized conſcience and immarbled heart, pronounceth the bloody Conjura<g ref="char:EOLhyphen"/>tion, impiouſly and impudently ſaying as followeth.</p>
+            <p>Come Cherabims, come Seraphims, and higheſt Thrones that rule, come bleſſed Angels: yea, bleſſed Angels of charitie, come and fill this holy Veſſell with glory and eternitie, and bring him preſently the Crowne of the Virgin <hi>Mary,</hi> of the Patriarches, and of the Mar<g ref="char:EOLhyphen"/>tyres, for he belongeth no longer to us, but to you.</p>
+            <p>And thou Oh dreadfull and terrible God, who haſt revealed to him in theſe our Prayers and meditations; that he ought to murther a Tyrant, and confound a He<g ref="char:EOLhyphen"/>reticke, and to give the Crowne to a Catholike-King.
+<pb n="14" facs="tcp:112925:8"/>And being by us diſpoſed to this meritorious Murther, vouchſafe to fortifie his ſenſes, and increaſe his forces: to the end that he may accompliſh this thy great will; and vouchſafe to arme and furniſh him with the harneſſe of thy powerfull providence, that he may valiantly per<g ref="char:EOLhyphen"/>forme the worthy worke he hath piouſly undertaken, and may happily eſcape from thoſe who would appre<g ref="char:EOLhyphen"/>hend him: give him Eagles wings, that the ſpight and malice of thoſe Barbarians whom he goes againſt, may not once touch his ſanctified members. Extend alſo the beames of thy joy and celeſtiall relicitie upon his ſacred ſoule, to the end that by the bleſſed influence thereof, the parts and members of his body alſo may be encou<g ref="char:EOLhyphen"/>raged and enabled to this great worke, and that it may chearefully diſpoſe it ſelfe to this holy Combate without feare or ſhrinking puſillanimitie.</p>
+            <p>This accurſed Conjuration being thus audaciouſly and graceleſly uttered, they carry the thus inchanted bloody Regicide, and ſet him before an Altar, where they ſhew him a Picture, wherein the Angels are ſeene and ſhowne to have lifted up and elevated long ſince <hi>James Clement,</hi> a bloody Jacobine Fryer, and repreſented him (as it were) before the Throne or God, ſaying:</p>
+            <p>Lord, behold thy Pupill, behold thy well-inſtructed Champion, and the accompliſher of thy juſtice: Where<g ref="char:EOLhyphen"/>upon all the Saints rife out of their feats to make him roome, and give him place among them. And when all theſe things are thus done and finiſhed, there are no more but four Jeſuites onely left with him, who when they come neare him; they with diabolicall impuden<g ref="char:EOLhyphen"/>cy and lying flattery, ſay unto him: that they ſeeme to perceive that there is ſome Diety infuſed into him, and that they are ſo aſtoniſhed with the radiant light ſhining and gliſtering in him, that they hold it their honour to kiſſe his hands and feet, and make him madly to beleeve that they account him not a meere man any longer; but that they eſteeme themſelves (as it were) as they ſay,
+<pb n="15" facs="tcp:112925:8"/>halfe unworthy of the happineſſe and glory which he hath already obtained by his Catholicke reſolution, and ſighing deeply before him; they ſay unto him: we would that God had choſen us, and called us to your eſtate: ſince we ſhould be truly aſſured, that we ſhould goe re<g ref="char:EOLhyphen"/>ally and directly into Paradice without comming at Purgatory.</p>
+            <p>And thus having intoxicated and bewitched the miſe<g ref="char:EOLhyphen"/>rable wretch, they thus leave him to his intended bloody deſigne.</p>
+            <p>The end of the Conjuration.</p>
+            <p>O Lord preſerve our Noble King CHARLES, and all his poſteritie from the power of all ſuch Ro<g ref="char:EOLhyphen"/>miſh Regicides and bloody Traytors, who thus plot and practice to build up their Romiſh Synagogue with blood. And grant good God, that our gracious King <hi>Charles,</hi> may with his poſterity, long continue a happie and proſperous Reigne over this Kingdome, for the maintenance and propagation of Chriſts Goſpell in de<g ref="char:EOLhyphen"/>ſpight of Antichriſt, and all his bold and bloody adhe<g ref="char:EOLhyphen"/>rents: and let every good and loyall ſubject, and true hearted <hi>Engliſh</hi> Chriſtian ſay, <hi>Amen,</hi> and <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
